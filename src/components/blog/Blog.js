@@ -24,7 +24,7 @@ export default function Blog() {
           <span>More things about the devil</span>
         </div>
         <div class="col-12 col-lg-12" Style="font-size: 45px;padding-left:0; ">
-          Blogs
+          Read
         </div>
       </div>
       <div class="row justify-content-around p-3">
@@ -32,13 +32,9 @@ export default function Blog() {
           <span>Fun Facts About Tasmanian Devils !</span>
           <div className="bg-dark h-75 opacity-75 p-3 ">
             <p Style="font-size:1rem">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit
-              amet ipsum lorem. Etiam augue nunc, auctor sit amet nisi nec,
-              auctor interdum urna. Ut varius, ipsum eget sodales viverra, felis
-              elit consequat nisl, ut aliquam sapien neque id quam. Duis varius
-              non ornare condimentum, eros tellus convallis sapien, ac ornare
-              lacus tellus in metus. Duis semper nibh ut leo maximus vehicula.
-              Proin............{" "}
+            Discover the myths, truths and totally wild trivia of these mysterious marsupials.
+Among Australia's collection of one-of-a-kind creatures, the Tasmanian “Tassie” devil is high on the list of stand-out members. Get ready to become an expert on these elusive, sometimes misunderstood cheeky little devils.
+{" "}
             </p>
             <button
               type="button"
@@ -54,13 +50,7 @@ export default function Blog() {
           <span>Brief about tasmanian devil</span>
           <div className="bg-dark h-75 opacity-75 p-3">
             <p Style="font-size:1rem">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit
-              amet ipsum lorem. Etiam augue nunc, auctor sit amet nisi nec,
-              auctor interdum urna. Ut varius, ipsum eget sodales viverra, felis
-              pretium augue non, consectetur massa. Vestibulum feugiat, ligula
-              non ornare condimentum, eros tellus convallis sapien, ac ornare
-              lacus tellus in metus. Duis semper nibh ut leo maximus vehicula.
-              Proin..................{" "}
+            ​​​​​​​​​​​The world's largest surviving carnivorous marsupial, the Tasmanian devil, has a thick-set, squat build, with a relatively large, broad head and short, thick tail. The fur is mostly black, with white markings on the rump, flanks and chest which vary in size and shape; some devils are pure black. {" "}
             </p>
             <button
               type="button"

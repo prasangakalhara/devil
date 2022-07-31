@@ -6,7 +6,7 @@ export default function Rarity() {
     <div className="container">
       <div className="row">
         <div class="col-12 col-lg-12" Style="font-size: 20px;padding-left:0;">
-          <span>UPCOMMING OUR ARTS</span>
+          <span>Most Rear Categories Digi Devils Club</span>
         </div>
         <div class="col-12 col-lg-12" Style="font-size: 45px;padding-left:0; ">
           Rarity
@@ -17,8 +17,7 @@ export default function Rarity() {
           <img class="card-img-top" src={CardImg} alt="" Style="width:100%;" />
           <div class="card-body">
             <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+            Ancient
             </p>
           </div>
         </div>
@@ -26,8 +25,7 @@ export default function Rarity() {
           <img class="card-img-top" src={CardImg} alt="" Style="width:100%;" />
           <div class="card-body">
             <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+            Legendary
             </p>
           </div>
         </div>
@@ -35,8 +33,7 @@ export default function Rarity() {
           <img class="card-img-top" src={CardImg} alt="" Style="width:100%;" />
           <div class="card-body">
             <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+            Epic
             </p>
           </div>
         </div>
